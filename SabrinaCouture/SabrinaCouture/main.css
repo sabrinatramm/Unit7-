@@ -1,0 +1,44 @@
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+
+#header {}
+
+
+#nav{
+		margin: 0;
+		padding: 0;
+		background-color: #716551;
+}
+
+#nav li{
+	list-style: none;
+	float: left;
+	padding: 0 15px 0 0;
+}	
+
+#nav li a:link, #nav li a:visited {
+				text-decoration: none;
+
+#body {}
+
+
+.main{
+		width: 1200px;
+		float: left;
+}
+
+.main-inner{
+		padding: 0 60px 0 0;
+}
+
+.side{
+		width: 300px;
+		float: left;
+}
+
+
+
+#footer {}
